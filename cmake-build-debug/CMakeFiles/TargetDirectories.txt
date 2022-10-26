@@ -1,0 +1,3 @@
+C:/Users/szymo/CLionProjects/discordToken/cmake-build-debug/CMakeFiles/discordToken.dir
+C:/Users/szymo/CLionProjects/discordToken/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/szymo/CLionProjects/discordToken/cmake-build-debug/CMakeFiles/rebuild_cache.dir
